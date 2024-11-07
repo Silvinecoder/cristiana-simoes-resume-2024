@@ -47,6 +47,14 @@ p:last-child {
   margin-top: 40px;
 }
 
+.experience_expanded{
+  margin-top: 20px;
+}
+
+.recent_projects_TKC{
+  margin-top: 20px;
+}
+
 .skills_info{
   display: flex;
   justify-content: space-between;
