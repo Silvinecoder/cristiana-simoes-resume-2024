@@ -24,6 +24,10 @@ ul{
   margin-top: 0;
 }
 
+li, p{
+  font-size: 14px;
+}
+
 .about_me, .contact, .skills{
   margin: 20px 0;
 }
