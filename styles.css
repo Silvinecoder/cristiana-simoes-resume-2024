@@ -85,6 +85,11 @@ li, p{
   gap: 20px;
 }
 
+.uni {
+  display: flex;
+  justify-content: space-between;
+}
+
 .download_resume{
   margin-top: 100px;
   display: flex;
